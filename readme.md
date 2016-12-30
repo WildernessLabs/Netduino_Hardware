@@ -10,6 +10,6 @@ This repo contains the schematic and PCB design files for the legacy Netduino 2 
  
 Each directory includes: 
  * `_ASSEMBLY` Directory - Files needed of a PCB assembler to instruct their "Pick and Place" machine to assemble the components on the PCB board. Also includes the Bill of Materials (BoM) for board.
-* `_FAB` Directory - Files necessary for a PCB fabricator to assembly the PCB, including the copper masks, silkscreen art, drill templates, etc.
-* `[model].pdf` - A PDF of the board design schematic.
-* `[model].brd` - The PCB design source file. Can be opened in Allegro Cadence, or similar.
+ * `_FAB` Directory - Files necessary for a PCB fabricator to assembly the PCB, including the copper masks, silkscreen art, drill templates, etc.
+ * `[model].pdf` - A PDF of the board design schematic.
+ * `[model].brd` - The PCB design source file. Can be opened in Allegro Cadence, or similar.
