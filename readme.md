@@ -1,4 +1,4 @@
-# Netduino 2 and Netduino 3 Hardware Source Files
+# Legacy Netduino 2 and Netduino 3 Hardware Source Files
 
 This repo contains the schematic and PCB design files for the legacy Netduino 2 and Netduino 3 hardware:
 
