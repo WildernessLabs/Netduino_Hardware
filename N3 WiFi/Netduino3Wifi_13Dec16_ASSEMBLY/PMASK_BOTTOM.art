@@ -1,0 +1,34 @@
+G04 ================== begin FILE IDENTIFICATION RECORD ==================*
+G04 Layout Name:  Netduino3Wifi_13Dec16.brd*
+G04 Film Name:    PMASK_BOTTOM*
+G04 File Format:  Gerber RS274X*
+G04 File Origin:  Cadence Allegro 16.6-2015-S069*
+G04 Origin Date:  Tue Dec 13 09:20:45 2016*
+G04 *
+G04 Layer:  PIN/PASTEMASK_BOTTOM*
+G04 Layer:  PACKAGE GEOMETRY/PASTEMASK_BOTTOM*
+G04 *
+G04 Offset:    (0.0000 0.0000)*
+G04 Mirror:    No*
+G04 Mode:      Positive*
+G04 Rotation:  0*
+G04 FullContactRelief:  No*
+G04 UndefLineWidth:     0.0000*
+G04 ================== end FILE IDENTIFICATION RECORD ====================*
+%FSLAX25Y25*MOMM*%
+%IR0*IPPOS*OFA0.00000B0.00000*MIA0B0*SFA1.00000B1.00000*%
+%ADD10R,2.4X.76*%
+%LPD*%
+G75*
+G54D10*
+X5655000Y2535000D03*
+Y2662000D03*
+Y2789000D03*
+Y2916000D03*
+Y3043000D03*
+X6045000Y2535000D03*
+Y2662000D03*
+Y2789000D03*
+Y2916000D03*
+Y3043000D03*
+M02*

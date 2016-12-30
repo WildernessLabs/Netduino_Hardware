@@ -1,0 +1,65 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    NC DRILL Log                                                     )
+(                                                                     )
+(    Drawing          : Netduino3Ethernet_17Dec16.brd                 )
+(    Software Version : 16.6-2015S069                                 )
+(    Date/Time        : Sat Dec 17 09:35:48 2016                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+ Processing NC Parameters file 'nc_param.txt' ...
+
+ NC PARAMETERS
+ -------------
+
+ FORMAT   		2.5
+ MACHINE-OFFSET		x:0.00000	y:0.00000   (mm)
+ FEEDRATE		1
+ COORDINATES		ABSOLUTE
+ OUTPUT-UNITS		METRIC
+ TOOL-ORDER		INCREASING
+ REPEAT-CODES		YES
+ SUPPRESS-LEAD-ZEROES	NO
+ SUPPRESS-TRAIL-ZEROES	NO
+ SUPPRESS-EQUAL		NO
+ TOOL-SELECT		NO
+ HEADER			none
+ LEADER			12
+ CODE			ASCII
+ SEPARATE		NO
+ SEPARATE-ROUTING	NO
+ OPTIMIZE_DRILLING	NO
+ ENHANCED_EXCELLON	NO
+ SCALE			1.000000
+
+ WARNING(SPMHMF-365): This design contains 4 slot holes that can NOT be drilled.
+ WARNING(SPMHMF-366): They can be processed by NC routing instead.
+
+
+ Drill files being output to directory 'D:/__Project/Allegro/2013/___Wilderness Lab/N3_update_silk/Netduino3Ethernet/Board/11Dec16' ...
+
+
+
+     'Netduino3Ethernet_17Dec16-1-4.drl' created for holes connecting TOP and BOTTOM
+     -------------------------------------------------------------------------------
+
+           Num     Size      +/- Tolerance     Plating   Quantity
+
+            1.   0.2500    0.0800/  0.0800      PLATED        344
+            2.   0.3302    0.0800/  0.0800      PLATED         65
+            3.   0.5000    0.0800/  0.0800      PLATED         21
+            4.   0.8000    0.1000/  0.0000      PLATED         32
+            5.   0.8900    0.0760/  0.0760      PLATED          8
+            6.   1.0000    0.0800/  0.0800      PLATED          6
+            7.   1.8000    0.0800/  0.0800      PLATED          3
+            8.   2.4000    0.0800/  0.0800  NON_PLATED          1
+            9.   3.2000    0.0800/  0.0800  NON_PLATED          3
+           10.   3.2500    0.0800/  0.0800  NON_PLATED          2
+
+     ---- Total holes:                                        485
+
+     ---- Total head travel:              17.42 feet (5.31 meters)
+

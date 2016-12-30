@@ -1,0 +1,60 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    NC DRILL Log                                                     )
+(                                                                     )
+(    Drawing          : netduino2_20Dec16_0600.brd                    )
+(    Software Version : 16.6-2015S069                                 )
+(    Date/Time        : Tue Dec 20 07:05:30 2016                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+ Processing NC Parameters file 'nc_param.txt' ...
+
+ NC PARAMETERS
+ -------------
+
+ FORMAT   		2.5
+ MACHINE-OFFSET		x:0.00000	y:0.00000   (mm)
+ FEEDRATE		1
+ COORDINATES		ABSOLUTE
+ OUTPUT-UNITS		METRIC
+ TOOL-ORDER		INCREASING
+ REPEAT-CODES		YES
+ SUPPRESS-LEAD-ZEROES	NO
+ SUPPRESS-TRAIL-ZEROES	NO
+ SUPPRESS-EQUAL		NO
+ TOOL-SELECT		NO
+ HEADER			none
+ LEADER			12
+ CODE			ASCII
+ SEPARATE		NO
+ SEPARATE-ROUTING	NO
+ OPTIMIZE_DRILLING	NO
+ ENHANCED_EXCELLON	NO
+ SCALE			1.000000
+
+ WARNING(SPMHMF-365): This design contains 7 slot holes that can NOT be drilled.
+ WARNING(SPMHMF-366): They can be processed by NC routing instead.
+
+
+ Drill files being output to directory 'D:/__Project/Allegro/2013/___Wilderness Lab/N2_update/Netduino 2/Board/20Dec16' ...
+
+
+
+     'netduino2_20Dec16_0600-1-4.drl' created for holes connecting TOP and BOTTOM
+     ----------------------------------------------------------------------------
+
+           Num     Size      +/- Tolerance     Plating   Quantity
+
+            1.   0.2500    0.0800/  0.0800      PLATED        163
+            2.   0.5000    0.0800/  0.0800      PLATED         45
+            3.   0.6500    0.0500/  0.0000      PLATED         10
+            4.   0.8000    0.1000/  0.0000      PLATED         32
+            5.   3.2000    0.0800/  0.0800  NON_PLATED          3
+
+     ---- Total holes:                                        253
+
+     ---- Total head travel:              8.88 feet (2.71 meters)
+

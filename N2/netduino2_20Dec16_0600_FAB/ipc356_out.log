@@ -1,0 +1,26 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    IPC-D-356                                                        )
+(                                                                     )
+(    Software Version : 16.6-2015S069                                 )
+(    Date/Time        : Tue Dec 20 07:06:51 2016                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Warning: String S_RCT_0-75_X_0-75_NOPASTE exceeds record length on line 75 at column 0
+Warning: String S_RCT_1-50_X_1-50_NOPASTE exceeds record length on line 88 at column 0
+Warning: String T_CRC_1-00_X_2-00_PCB4000S exceeds record length on line 112 at column 0
+Warning: String MTG425H475_NOSOLDERMASK exceeds record length on line 116 at column 0
+Warning: String MTG200H350_FOR0-80SCREW exceeds record length on line 122 at column 0
+Warning: String 100MILSPACEDHEADERSTDPAD exceeds record length on line 123 at column 0
+Warning: String 100MILSPACEDHEADERPIN1PAD exceeds record length on line 124 at column 0
+Warning: String MTG396H720_OUT_572_IN exceeds record length on line 128 at column 0
+Warning: String MTG396H720_OUT_550_IN exceeds record length on line 129 at column 0
+Warning: String SRCT2-15X1-90P-64_FULLPASTE exceeds record length on line 227 at column 0
+
+
+------------------------------------------
+SUMMARY:
+  Errors:       0
+  Warnings:    10

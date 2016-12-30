@@ -1,0 +1,32 @@
+G04 ================== begin FILE IDENTIFICATION RECORD ==================*
+G04 Layout Name:  Netduino3_16Dec16_0800.brd*
+G04 Film Name:    BOARD_OUTLINE*
+G04 File Format:  Gerber RS274X*
+G04 File Origin:  Cadence Allegro 16.6-2015-S069*
+G04 Origin Date:  Fri Dec 16 09:48:39 2016*
+G04 *
+G04 Layer:  BOARD GEOMETRY/OUTLINE*
+G04 *
+G04 Offset:    (0.0000 0.0000)*
+G04 Mirror:    No*
+G04 Mode:      Positive*
+G04 Rotation:  0*
+G04 FullContactRelief:  No*
+G04 UndefLineWidth:     0.1270*
+G04 ================== end FILE IDENTIFICATION RECORD ====================*
+%FSLAX25Y25*MOMM*%
+%IR0*IPPOS*OFA0.00000B0.00000*MIA0B0*SFA1.00000B1.00000*%
+%ADD10C,.0254*%
+G75*
+%LPD*%
+G75*
+G54D10*
+G01X0Y0D02*
+Y5334000D01*
+G01Y0D02*
+X7645400D01*
+X7797800Y152400D01*
+Y5181600D01*
+X7645400Y5334000D01*
+X0D01*
+M02*

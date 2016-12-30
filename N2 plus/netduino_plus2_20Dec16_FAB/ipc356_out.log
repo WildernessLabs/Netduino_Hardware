@@ -1,0 +1,29 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    IPC-D-356                                                        )
+(                                                                     )
+(    Software Version : 16.6-2015S069                                 )
+(    Date/Time        : Tue Dec 20 09:00:02 2016                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Warning: String S_RCT_0-75_X_0-75_NOPASTE exceeds record length on line 70 at column 0
+Warning: String S_RCT_1-50_X_1-50_NOPASTE exceeds record length on line 83 at column 0
+Warning: String T_CRC_1-00_X_2-00_PCB4000S exceeds record length on line 107 at column 0
+Warning: String MTG425H475_NOSOLDERMASK exceeds record length on line 111 at column 0
+Warning: String MTG200H350_FOR0-80SCREW exceeds record length on line 117 at column 0
+Warning: String 100MILSPACEDHEADERSTDPAD exceeds record length on line 118 at column 0
+Warning: String 100MILSPACEDHEADERPIN1PAD exceeds record length on line 119 at column 0
+Warning: String MTG396H720_OUT_572_IN exceeds record length on line 123 at column 0
+Warning: String MTG396H720_OUT_550_IN exceeds record length on line 124 at column 0
+Warning: String SRCT2-15X1-90P-64_FULLPASTE exceeds record length on line 222 at column 0
+Warning: Found a mechanical pin at location (67.0000 15.2500) with no drill - skipping.
+Warning: Found a mechanical pin at location (9.2500 2.0000) with no drill - skipping.
+Warning: Found a mechanical pin at location (64.1500 45.3000) with no drill - skipping.
+
+
+------------------------------------------
+SUMMARY:
+  Errors:       0
+  Warnings:    13
